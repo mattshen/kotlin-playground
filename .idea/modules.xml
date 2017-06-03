@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-playground.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-playground.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-playground_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-playground_main.iml" group="kotlin-playground" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-playground_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-playground_test.iml" group="kotlin-playground" />
     </modules>
   </component>
 </project>
